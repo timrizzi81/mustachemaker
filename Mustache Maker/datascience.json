@@ -1,0 +1,17 @@
+{
+  "name": "Mustache Maker",
+  "description": "This opencv model detects noses and adds mustaches.",
+  "model": {
+    "file": "api.py",
+    "function": "run"
+  },
+  "requirements": {
+    "python": "req.py",
+    "apt": "req.apt"
+  },
+  "language": "python2",
+  "example": {
+    "img": "base64"
+  },
+  "readme": "readme.md"
+}
